@@ -3,3 +3,5 @@ draft.tmp
 notes.log
 # Сборка
 build/
+# Секреты
+secrets.md
